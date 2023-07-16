@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarska&label=Profile%20views&color=0e75b6&style=flat" alt="omkarska" /> </p>
 
 - 🌱 I’m currently learning **Blockchain**
-- 📫 How to reach me: omkar.kanase22@vit.edu
+- 📫 How to reach me: kanaseomkar4@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
