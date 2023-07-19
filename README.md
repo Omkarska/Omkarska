@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omkarska&show_icons=true&locale=en" alt="omkarska" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarska&show_icons=true&locale=en" alt="omkarska" />
 </p>
 
 <br>
