@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omkarska&show_icons=true&locale=en&layout=compact" alt="omkarska" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarska&show_icons=true&locale=en&layout=compact" alt="omkarska" />
 </p>
 
 <br>
