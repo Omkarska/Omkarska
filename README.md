@@ -6,6 +6,10 @@
 
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://www.instagram.com/omkarska/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/omkarska)
+<a href="https://leetcode.com/u/Vortixium/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50"/>
+</a>
+
 
 # 💻 Tech Stack
 
